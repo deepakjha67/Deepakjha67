@@ -9,13 +9,25 @@
 
 📊 GitHub Stats
 
-<div align="center">
+<table border="0">
+<tr>
+<td>
+<a href="https://www.google.com/search?q=https://github.com/Deepakjha67">
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DDeepakjha67%26theme%3Ddark%26show_icons%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26rank_icon%3Dgithub" alt="Deepak's GitHub Stats" />
+</a>
+</td>
+<td>
+<a href="https://www.google.com/search?q=https://github.com/Deepakjha67">
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DDeepakjha67%26theme%3Ddark%26layout%3Dcompact%26langs_count%3D6%26card_width%3D320" alt="Top Languages" />
+</a>
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Deepakjha67&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakjha67&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
 
-
-
-
+<a href="https://www.google.com/search?q=https://github.com/Deepakjha67">
 <img src="https://nirzak-streak-stats.vercel.app/?user=Deepakjha67&theme=dark&hide_border=false" alt="GitHub Streak" />
+</a>
+
+</div>
