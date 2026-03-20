@@ -9,7 +9,7 @@ I am on a journey to transition my analytical skills into building intelligent s
 
 ## 👨‍💻 About Me  
 
-🎓 Currently studying Electronics and Communication Engineering (ECE) (Batch 2024–2028)  
+🎓 Currently persuing BTech in ECE (Batch 2024–2028)  
 🌱 I’m currently learning Data Structures & Algorithms (DSA) and diving deep into Machine Learning  
 🎯 Goal: To become a proficient AI Engineer and build scalable, intelligent models  
 
@@ -24,11 +24,13 @@ I am on a journey to transition my analytical skills into building intelligent s
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 
 🤖 Machine Learning & Data:
+
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=matplotlib&logoColor=black)
 
 🧰 Tools & Environments:
+
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
@@ -53,8 +55,7 @@ I am on a journey to transition my analytical skills into building intelligent s
 ## 📫 Let's Connect!  
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-kumar-jha-390694281)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepakjha1740@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-kumar-jha-390694281) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepakjha1740@gmail.com)  
 
 ---
 
