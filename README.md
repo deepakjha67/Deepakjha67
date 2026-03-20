@@ -1,12 +1,47 @@
+# Hi there, I'm Deepak 👋  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-kumar-jha-390694281?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thedeepkjha4u@gmail.com) 
+### 🚀 Aspiring AI Engineer | Machine Learning Enthusiast  
 
+Welcome to my GitHub! I am a dedicated engineering student with a strong passion for Artificial Intelligence and Machine Learning.  
+I am on a journey to transition my analytical skills into building intelligent systems, currently focusing on strengthening my foundation in Data Structures, Algorithms, and ML algorithms.  
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
+---
 
-# 📊 GitHub Stats:
+## 👨‍💻 About Me  
+
+🎓 Currently studying Electronics and Communication Engineering (ECE) (Batch 2024–2028)  
+🌱 I’m currently learning Data Structures & Algorithms (DSA) and diving deep into Machine Learning  
+🎯 Goal: To become a proficient AI Engineer and build scalable, intelligent models  
+
+---
+
+## 🛠️ Tech Stack & Tools  
+
+### 💻 Languages:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+
+---
+
+### 🤖 Machine Learning & Data:
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=matplotlib&logoColor=black)
+
+---
+
+### 🧰 Tools & Environments:
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34)
+
+---
+
+## 📊 GitHub Stats  
 
 [![](https://visitcount.itsvg.in/api?id=Deepakjha67&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -16,6 +51,16 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Deepakjha67&theme=dark&hide_border=false)<br/>
 
+---
 
+## 📫 Let's Connect!  
 
+I love connecting with like-minded people over tech, AI, and code. Feel free to reach out!  
 
+🔗 LinkedIn: https://www.linkedin.com/in/deepak-kumar-jha-390694281  
+📧 Email: deepakjha1740@gmail.com  
+
+---
+
+### 💡 Quote  
+*"The best way to predict the future is to invent it."*
