@@ -18,6 +18,7 @@ I am on a journey to transition my analytical skills into building intelligent s
 ## 🛠️ Tech Stack & Tools  
 
 💻 Languages:
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
@@ -51,11 +52,12 @@ I am on a journey to transition my analytical skills into building intelligent s
 
 ## 📫 Let's Connect!  
 
-I love connecting with like-minded people over tech, AI, and code. Feel free to reach out!  
 
-🔗 LinkedIn: https://www.linkedin.com/in/deepak-kumar-jha-390694281  
-📧 Email: deepakjha1740@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-kumar-jha-390694281)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepakjha1740@gmail.com)  
 
 ---
 
-*"The best way to predict the future is to invent it."*
+<p align="center">
+  <b>💡 "The best way to predict the future is to invent it."</b>
+</p>
