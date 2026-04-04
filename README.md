@@ -42,13 +42,10 @@ I am on a journey to transition my analytical skills into building intelligent s
 
 ## 📊 GitHub Stats  
 
-<a href="https://github.com/Deepak/github-readme-stats">
-  <img alt="deepakjha67's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=deepakjha67&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-</a>
-<a href="https://github.com/Deepak/github-readme-stats">
-  <img alt="deepakjha67's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakjha67&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
-</a>
-<br/>
+<p align="center">
+  <a href="https://github.com/deepakjha67/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=deepakjha67&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
+</p>
+
 ## 📫 Let's Connect!  
 
 
