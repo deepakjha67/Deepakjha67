@@ -47,21 +47,12 @@ I am on a journey to transition my analytical skills into building intelligent s
   <a href="https://github.com/deepakjha67/beautiful-github-homepage">
     <img height="150" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=deepakjha67&hide_title=false&layout=compact&theme=gotham&count_private=true" alt="Top Languages" />
   </a>
-
-  <br/>
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=deepakjha67&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-
-  <br/>
+  
   <br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakjha67&theme=dark&hide_border=false" alt="GitHub Streak" />
 
   <br/>
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakjha67&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs Compact" />
 
 </div>
 
