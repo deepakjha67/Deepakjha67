@@ -52,6 +52,7 @@ I am on a journey to transition my analytical skills into building intelligent s
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakjha67&theme=dark&hide_border=false" alt="GitHub Streak" />
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Deepakjha67&theme=modern-lilac&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   <br/>
 
 </div>
