@@ -49,7 +49,7 @@ I am on a journey to transition my analytical skills into building intelligent s
   </a>
   
   <br/>
-  [![image](https://github-readme-stats.vercel.app/api?username=deepakjha67&show_icons=true&theme=radical)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Deepakjha67&theme=codestackr&short_numbers=true&border=EB7E34&stroke=EBEBEB&ring=EBDC64&fire=EBDD7C&currStreakNum=EBDD4D&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBE179&excludeDaysLabel=EBE441&background=45%2C321C11%2C0E1221)](https://git.io/streak-stats)
 
   <br/>
 
