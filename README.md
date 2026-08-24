@@ -48,10 +48,10 @@ I am on a journey to transition my analytical skills into building intelligent s
     <img height="150" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=deepakjha67&hide_title=false&layout=compact&theme=gotham&count_private=true" alt="Top Languages" />
   </a>
   
-  <br/>
+  
   [![GitHub Streak](https://streak-stats.demolab.com?user=Deepakjha67&theme=dark&short_numbers=true)](https://git.io/streak-stats)
   
-  <br/>
+  
 
 </div>
 
