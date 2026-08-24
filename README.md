@@ -50,8 +50,7 @@ I am on a journey to transition my analytical skills into building intelligent s
   
   <br/>
   [![GitHub Streak](https://streak-stats.demolab.com?user=Deepakjha67&theme=dark&short_numbers=true)](https://git.io/streak-stats)
-
-
+  
   <br/>
 
 </div>
